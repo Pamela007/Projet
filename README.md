@@ -3,13 +3,13 @@
         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <modelVersion>4.0.0</modelVersion>
 
-        <groupId>be.icc</groupId>
+        <groupId>be.pams</groupId>
         <artifactId>reservations</artifactId>
         <version>0.0.1-SNAPSHOT</version>
         <packaging>war</packaging>
 
         <name>reservations</name>
-        <description>Demo project for Spring Boot</description>
+        <description>Santé+</description>
 
         <parent>
                 <groupId>org.springframework.boot</groupId>
